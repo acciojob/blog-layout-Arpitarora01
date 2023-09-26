@@ -1,9 +1,9 @@
 *{
 	background:#e2e1e0;
 }
-.main-sec{
+.blog-column{
 	
-	
+	display:flex;
 }
 .news{
 	
